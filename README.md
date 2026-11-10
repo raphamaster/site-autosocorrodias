@@ -9,5 +9,5 @@ Landing page estática criada para a Auto Socorro Dias, com foco em contato por 
 - `script.js`: menu, data e preparação de mensagem WhatsApp
 - `assets/`: logotipo e ilustrações
 - `PRODUCT.md` / `DESIGN.md`: decisões de produto e design
-- `BENCHMARK.md`: síntese dos exemplos pesquisados
+
 
