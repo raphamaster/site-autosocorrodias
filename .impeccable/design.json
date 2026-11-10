@@ -1,0 +1,27 @@
+{
+  "name": "Auto Socorro Dias — Faixa de Rodovia",
+  "mode": "persuade",
+  "version": 1,
+  "colors": {
+    "navy": "#071d3b",
+    "deep": "#06162e",
+    "blue": "#0b3065",
+    "red": "#dd1e2b",
+    "ink": "#172a45",
+    "muted": "#60718b",
+    "paper": "#f5f7fa",
+    "white": "#ffffff"
+  },
+  "typography": {
+    "display": "Barlow Condensed, sans-serif",
+    "body": "DM Sans, sans-serif"
+  },
+  "layout": {
+    "contentMaxWidth": "1200px",
+    "contentSidePaddingDesktop": "36px",
+    "contentSidePaddingMobile": "18px",
+    "mobileBreakpoint": "600px"
+  },
+  "brandAsset": "assets/logo-dias.png",
+  "assetsNote": "Tow-truck images are illustrative, not documented client fleet photographs."
+}
